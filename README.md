@@ -1,1 +1,1 @@
-#quan-ly-diem-streamlit
+QU-N-L-I-M-SINH-VI-N
